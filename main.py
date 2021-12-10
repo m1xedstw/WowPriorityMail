@@ -92,7 +92,7 @@ gap = myScreenshot.size[0] * 10.94 / 100
 del myScreenshot
 
 
-input("Press any key to start:")
+input("Press Enter to start:")
 
 print("Starting in 3...")
 time.sleep(1)
